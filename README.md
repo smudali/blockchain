@@ -6,3 +6,6 @@
 
 #### Medium Article
 - [Ethereum Transaction Log Analysis: Uncovering LP Holder Actions](https://medium.com/@sugath.mudali/ethereum-transaction-log-analysis-uncovering-lp-holder-actions-d6d679752357)
+
+#### Medium Article
+- [Interacting with Uniswap v3 Smart Contracts for Real-Time Price Discovery Using Web3.py](https://medium.com/@sugath.mudali/interacting-with-uniswap-v3-smart-contracts-for-real-time-price-discovery-using-web3-py-123a7a927d53)
