@@ -12,3 +12,6 @@
 
 #### Medium Article
 - [Interacting with Uniswap v3 Liquidity NFTs: Retrieving Position Data](https://medium.com/@sugath.mudali/interacting-with-uniswap-v3-liquidity-nfts-retrieving-position-data-00406b320b30)
+
+#### Medium Article
+- [Retrieving and Displaying Uniswap v3 NFT Images via Metadata](https://medium.com/@sugath.mudali/retrieving-and-displaying-uniswap-v3-nft-images-via-metadata-befa99ba0ba9)
