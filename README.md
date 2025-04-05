@@ -15,3 +15,6 @@
 
 #### Medium Article
 - [Retrieving and Displaying Uniswap v3 NFT Images via Metadata](https://medium.com/@sugath.mudali/retrieving-and-displaying-uniswap-v3-nft-images-via-metadata-befa99ba0ba9)
+
+#### Medium Article
+- [The Graph: Simplifying Blockchain Data Queries with GraphQL](https://medium.com/@sugath.mudali/the-graph-simplifying-blockchain-data-queries-with-graphql-f9c89f96661d)
