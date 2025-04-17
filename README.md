@@ -18,3 +18,7 @@
 
 #### Medium Article
 - [The Graph: Simplifying Blockchain Data Queries with GraphQL](https://medium.com/@sugath.mudali/the-graph-simplifying-blockchain-data-queries-with-graphql-f9c89f96661d)
+
+#### Medium Article
+- [Ethereum Transaction Log Analysis: Uncovering LP Holder Actions using GraphQL](https://medium.com/@sugath.mudali/ethereum-transaction-log-analysis-uncovering-lp-holder-actions-using-graphql-d72b6c3d38c4)
+
