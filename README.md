@@ -22,3 +22,6 @@
 #### Medium Article
 - [Ethereum Transaction Log Analysis: Uncovering LP Holder Actions using GraphQL](https://medium.com/@sugath.mudali/ethereum-transaction-log-analysis-uncovering-lp-holder-actions-using-graphql-d72b6c3d38c4)
 
+#### Medium Article
+- [Uncovering LP Holder Transaction Actions using web3.py](https://medium.com/@sugath.mudali/uncovering-lp-holder-transaction-actions-using-web3-py-24e75b2b6a06)
+
