@@ -26,4 +26,5 @@
 - [Uncovering LP Holder Transaction Actions using web3.py](https://medium.com/@sugath.mudali/uncovering-lp-holder-transaction-actions-using-web3-py-24e75b2b6a06)
 
 #### Medium Article
-- [ENS and The Graph: Simplifying Blockchain Data for dApps](https://medium.com/@sugath.mudali/ens-and-the-graph-simplifying-blockchain-data-for-dapps-bead5b26b460)
+- [Unlock Web3 Data: A Developer’s Guide to Subgrounds and The Graph](https://medium.com/@sugath.mudali/unlock-web3-data-a-developers-guide-to-subgrounds-and-the-graph-6a83f1ab2d27)
+  
