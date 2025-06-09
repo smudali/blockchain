@@ -28,3 +28,6 @@
 #### Medium Article
 - [Unlock Web3 Data: A Developer’s Guide to Subgrounds and The Graph](https://medium.com/@sugath.mudali/unlock-web3-data-a-developers-guide-to-subgrounds-and-the-graph-6a83f1ab2d27)
   
+#### Medium Article
+- [Accessing Morpho Protocol Data: A Guide to the GraphQL-Based Morpho API](https://medium.com/@sugath.mudali/accessing-morpho-protocol-data-a-guide-to-the-graphql-based-morpho-api-ef7fee576ce4)
+- 
