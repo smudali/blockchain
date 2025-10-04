@@ -35,8 +35,4 @@
 - [Analyzing Substream Packages with Python: A Guide to Blockchain ETL](https://medium.com/@sugath.mudali/analyzing-substream-packages-with-python-a-guide-to-blockchain-etl-c5efc754a522)
 - 
 #### Medium Article
-- [Building Robust TWAP (Time Weighted Avergae Price) Price Feeds from Uniswap V3 Pools on Uniswap v3]()
-- 
-
-
-https://github.com/smudali/blockchain/blob/main/eth/uniswapv3_twap.ipynb
+- [Building Robust TWAP (Time Weighted Avergae Price) Price Feeds from Uniswap V3 Pools on Uniswap v3](https://medium.com/@sugath.mudali/building-robust-twap-time-weighted-avergae-price-price-feeds-from-uniswap-v3-pools-on-uniswap-v3-a2f3c075c019)
